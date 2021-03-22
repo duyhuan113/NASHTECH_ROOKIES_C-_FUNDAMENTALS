@@ -1,0 +1,16 @@
+F:\NASHTECH\demoConsoleApp\bin\Debug\net5.0\demoConsoleApp.exe
+F:\NASHTECH\demoConsoleApp\bin\Debug\net5.0\demoConsoleApp.deps.json
+F:\NASHTECH\demoConsoleApp\bin\Debug\net5.0\demoConsoleApp.runtimeconfig.json
+F:\NASHTECH\demoConsoleApp\bin\Debug\net5.0\demoConsoleApp.runtimeconfig.dev.json
+F:\NASHTECH\demoConsoleApp\bin\Debug\net5.0\demoConsoleApp.dll
+F:\NASHTECH\demoConsoleApp\bin\Debug\net5.0\ref\demoConsoleApp.dll
+F:\NASHTECH\demoConsoleApp\bin\Debug\net5.0\demoConsoleApp.pdb
+F:\NASHTECH\demoConsoleApp\obj\Debug\net5.0\demoConsoleApp.csprojAssemblyReference.cache
+F:\NASHTECH\demoConsoleApp\obj\Debug\net5.0\demoConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\NASHTECH\demoConsoleApp\obj\Debug\net5.0\demoConsoleApp.AssemblyInfoInputs.cache
+F:\NASHTECH\demoConsoleApp\obj\Debug\net5.0\demoConsoleApp.AssemblyInfo.cs
+F:\NASHTECH\demoConsoleApp\obj\Debug\net5.0\demoConsoleApp.csproj.CoreCompileInputs.cache
+F:\NASHTECH\demoConsoleApp\obj\Debug\net5.0\demoConsoleApp.dll
+F:\NASHTECH\demoConsoleApp\obj\Debug\net5.0\ref\demoConsoleApp.dll
+F:\NASHTECH\demoConsoleApp\obj\Debug\net5.0\demoConsoleApp.pdb
+F:\NASHTECH\demoConsoleApp\obj\Debug\net5.0\demoConsoleApp.genruntimeconfig.cache
